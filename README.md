@@ -83,3 +83,84 @@
 - Terminate a process by PID.
    
       kill 
+
+- Change file owner and group.
+  
+      chown 
+
+- Change file modes or Access Control Lists.
+
+      chmod 
+
+- Create hard and symbolic links.
+
+      ln 
+
+- Show system information.
+
+      uname 
+
+- Archive files.
+
+      tar 
+
+- Compress files.
+
+      gzip 
+
+- Decompress files.
+
+      gunzip 
+
+- Package and compress files.
+
+      zip 
+
+- Extract compressed files.
+
+
+      unzip 
+
+- Send ICMP ECHO_REQUEST to network hosts.
+
+      ping 
+
+- Non-interactive network downloader.
+
+      wget 
+
+- Transfer data from or to a server.
+
+      curl 
+
+- OpenSSH client (remote login program).
+
+      ssh 
+
+- Secure copy (remote file copy program).
+
+      scp 
+
+- File Transfer Protocol client.
+
+      ftp 
+
+- Remote file and directory synchronization.
+
+      rsync 
+
+- Mount a file system.
+
+       mount 
+
+- Unmount file systems.
+
+      umount 
+
+ - Search for files in a directory hierarchy.
+
+       find
+
+- Print lines that match patterns.
+
+      grep 
