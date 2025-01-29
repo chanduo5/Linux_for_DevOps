@@ -1,7 +1,7 @@
 ## Linux_for_DevOps ##
 
 
-# Basic Commands #
+# 100 Basic Commands #
 
 
  - Print working directory.
@@ -164,3 +164,44 @@
 - Print lines that match patterns.
 
       grep 
+
+- Stream editor for filtering and transforming text.
+
+      sed 
+
+- Pattern scanning and processing language.
+
+      awk 
+
+- Sort lines of text files.
+
+      sort 
+
+- Report or omit repeated lines.
+
+      uniq 
+
+- Output the first part of files.
+
+      head 
+
+- Output the last part of files.
+
+      tail 
+
+- Print newline, word, and byte counts for each file.
+
+      wc 
+
+- Compare files line by line.
+
+      diff 
+
+- Apply a diff file to an original.
+
+      patch 
+
+- Schedule periodic background jobs.
+
+      crontab 
+
