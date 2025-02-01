@@ -208,7 +208,7 @@
 
 
 
-#Intermediate Commands#
+# Intermediate Commands #
 
 
 - Configure a network interface.
