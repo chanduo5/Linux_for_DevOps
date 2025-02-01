@@ -227,22 +227,31 @@
 
       iptables
 
+- Control the systemd system and service manager.
 
+      systemctl
+ 
+- Query and display messages from the journal.
+ 
+      journalctl
+ 
+- Define or display aliases.
+  
+      alias 
 
+- Remove alias definitions.
 
+      unalias 
+
+- Text editor in the terminal.
+
+      nano 
+
+- Text editor in the terminal.
+
+      vi 
  
 
-systemctl - Control the systemd system and service manager.
-
-journalctl - Query and display messages from the journal.
-
-alias - Define or display aliases.
-
-unalias - Remove alias definitions.
-
-nano - Text editor in the terminal.
-
-vi - Text editor in the terminal.
 
 
 
