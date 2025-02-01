@@ -203,5 +203,50 @@
 
 - Schedule periodic background jobs.
 
-      crontab 
+      crontab
+
+
+
+
+#Intermediate Commands#
+
+
+- Configure a network interface.
+  
+      ifconfig 
+
+- Print network connections, routing tables, interface statistics.
+
+      netstat
+
+ - Print the route packets take to network host.
+
+       traceroute 
+
+- Administration tool for IPv4 packet filtering and NAT.
+
+      iptables
+
+
+
+
+ 
+
+systemctl - Control the systemd system and service manager.
+
+journalctl - Query and display messages from the journal.
+
+alias - Define or display aliases.
+
+unalias - Remove alias definitions.
+
+nano - Text editor in the terminal.
+
+vi - Text editor in the terminal.
+
+
+
+
+
+
 
