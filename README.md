@@ -250,26 +250,39 @@
 - Text editor in the terminal.
 
       vi 
+
+- Improved vi text editor.
+
+      vim
+
  
-vim - Improved vi text editor.
+ 
+- Text editor with GUI and terminal versions.
+emacs 
 
-emacs - Text editor with GUI and terminal versions.
+- Execute a command as another user.
+sudo 
 
-sudo - Execute a command as another user.
+- Switch user.
+su 
 
-su - Switch user.
+- Create a new user.
+useradd 
 
-useradd - Create a new user.
+- Modify a user account.
+usermod 
 
-usermod - Modify a user account.
+- Delete a user account.
+userdel 
 
-userdel - Delete a user account.
+- Create a new group.
+groupadd 
 
-groupadd - Create a new group.
+- Modify a group.
+groupmod 
 
-groupmod - Modify a group.
-
-groupdel - Delete a group.
+- Delete a group.
+groupdel 
 
 
 
