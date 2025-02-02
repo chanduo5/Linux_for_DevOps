@@ -251,6 +251,25 @@
 
       vi 
  
+vim - Improved vi text editor.
+
+emacs - Text editor with GUI and terminal versions.
+
+sudo - Execute a command as another user.
+
+su - Switch user.
+
+useradd - Create a new user.
+
+usermod - Modify a user account.
+
+userdel - Delete a user account.
+
+groupadd - Create a new group.
+
+groupmod - Modify a group.
+
+groupdel - Delete a group.
 
 
 
