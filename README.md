@@ -255,34 +255,41 @@
 
       vim
 
- 
- 
 - Text editor with GUI and terminal versions.
-emacs 
+
+      emacs 
 
 - Execute a command as another user.
-sudo 
+
+      sudo 
 
 - Switch user.
-su 
+
+      su 
 
 - Create a new user.
-useradd 
+
+      useradd 
 
 - Modify a user account.
-usermod 
+
+      usermod 
 
 - Delete a user account.
-userdel 
+
+      userdel 
 
 - Create a new group.
-groupadd 
+
+      groupadd 
 
 - Modify a group.
-groupmod 
+
+      groupmod 
 
 - Delete a group.
-groupdel 
+
+      groupdel 
 
 
 
