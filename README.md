@@ -4,6 +4,7 @@
 # 100 Basic Commands #
 
 
+
  - Print working directory.
    
        pwd
