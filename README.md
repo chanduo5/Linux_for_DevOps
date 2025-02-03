@@ -291,15 +291,25 @@
 
       groupdel 
 
-passwd - Change user password.
+- Change user password.
 
-chmod - Change file permissions.
+      passwd 
 
-chattr - Change file attributes.
+- Change file permissions.
 
-lsattr - List file attributes on a Linux file system.
+      chmod 
 
-locale - Get locale-specific information.
+- Change file attributes.
+  
+      chattr 
+
+- List file attributes on a Linux file system.
+  
+      lsattr 
+
+- Get locale-specific information.
+
+      locale 
 
 
 
