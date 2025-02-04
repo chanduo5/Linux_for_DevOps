@@ -312,15 +312,25 @@
 
       locale 
 
-date - Display or set the date and time.
+- Display or set the date and time.
 
-cal - Display a calendar.
+       date 
 
-bc - An arbitrary precision calculator language.
+- Display a calendar.
 
-dc - An arbitrary precision reverse-polish calculator.
+      cal 
 
-htop - Interactive process viewer.
+- An arbitrary precision calculator language.
+
+      bc 
+
+- An arbitrary precision reverse-polish calculator.
+
+      dc 
+
+- Interactive process viewer.
+
+      htop 
 
 
 
