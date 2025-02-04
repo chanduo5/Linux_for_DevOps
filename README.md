@@ -312,6 +312,16 @@
 
       locale 
 
+date - Display or set the date and time.
+
+cal - Display a calendar.
+
+bc - An arbitrary precision calculator language.
+
+dc - An arbitrary precision reverse-polish calculator.
+
+htop - Interactive process viewer.
+
 
 
 
