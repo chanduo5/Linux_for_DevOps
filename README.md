@@ -332,15 +332,25 @@
 
       htop 
 
-screen - Terminal multiplexer.
+- Terminal multiplexer.
 
-tmux - Terminal multiplexer.
+      screen 
 
-ssh-keygen - Generate SSH keys.
+- Terminal multiplexer.
 
-scp - Securely copy files between hosts.
+      tmux 
 
-sftp - Secure File Transfer Protocol.
+- Generate SSH keys.
+
+      ssh-keygen 
+
+- Securely copy files between hosts.
+
+      scp 
+
+- Secure File Transfer Protocol.
+
+      sftp 
 
 
 
