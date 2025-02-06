@@ -352,6 +352,16 @@
 
       sftp 
 
+rsyslog - Rocket-fast system for log processing.
+
+tcpdump - Command-line packet analyzer.
+
+ip - Show/manipulate routing, devices, policy routing, and tunnels.
+
+ip addr - Show IP addresses assigned to all interfaces.
+
+ip link - Show network interfaces.
+
 
 
 
