@@ -372,6 +372,17 @@
 
       ip link 
 
+ip route - Show routing table.
+
+arp - Manipulate the system ARP cache.
+
+hostnamectl - Control the system hostname.
+
+lsblk - List information about block devices.
+
+blkid - Locate/print block device attributes.
+
+parted - A partition manipulation program.
 
 
 
