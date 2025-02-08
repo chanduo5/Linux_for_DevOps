@@ -396,13 +396,21 @@
 
       parted 
 
-mkfs - Build a Linux file system.
+- Build a Linux file system.
 
-tune2fs - Adjust tunable file system parameters on ext2/ext3/ext4 file systems.
+      mkfs 
 
-fsck - File system consistency check and repair.
+- Adjust tunable file system parameters on ext2/ext3/ext4 file systems.
 
-e2fsck - Check a Linux ext2/ext3/ext4 file system.
+      tune2fs 
+
+- File system consistency check and repair.
+
+       fsck 
+
+- Check a Linux ext2/ext3/ext4 file system.
+
+      e2fsck 
 
 
 
