@@ -417,6 +417,7 @@
  ## Linux is a family of open-source Unix-like operating systems based on the Linux kernel. It is typically packaged in a form known as a Linux distribution for both desktop and server use. Some of the popular distributions include Ubuntu, Fedora, CentOS, and Debian. ##
 
 
+Kernel: The core of the Linux operating system, responsible for managing the system's hardware and resources. It provides basic services for all other parts of the operating system.
 
 
 
