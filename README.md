@@ -419,7 +419,7 @@
 
 Kernel: The core of the Linux operating system, responsible for managing the system's hardware and resources. It provides basic services for all other parts of the operating system.
 
-
+Shell: A command-line interface that allows users to interact with the operating system by typing commands. Common shells include Bash, Zsh, and Fish.
 
 
 
