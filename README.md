@@ -421,7 +421,7 @@ Kernel: The core of the Linux operating system, responsible for managing the sys
 
 Shell: A command-line interface that allows users to interact with the operating system by typing commands. Common shells include Bash, Zsh, and Fish.
 
-
+File System: Linux uses a hierarchical file system structure. Everything in Linux is a file, including hardware devices and system resources.
 
 
 
