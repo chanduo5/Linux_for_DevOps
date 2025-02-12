@@ -423,5 +423,6 @@ Shell: A command-line interface that allows users to interact with the operating
 
 File System: Linux uses a hierarchical file system structure. Everything in Linux is a file, including hardware devices and system resources.
 
+Package Management: Linux distributions use package managers to install, update, and remove software. Examples include APT (Advanced Package Tool) for Debian-based distributions and YUM (Yellowdog Updater, Modified) for RedHat-based distributions.
 
 
