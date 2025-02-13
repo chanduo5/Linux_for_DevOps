@@ -412,7 +412,7 @@
 
       e2fsck 
 
-# Basic Theory #
+## Basic Theory ##
 
  ## Linux is a family of open-source Unix-like operating systems based on the Linux kernel. It is typically packaged in a form known as a Linux distribution for both desktop and server use. Some of the popular distributions include Ubuntu, Fedora, CentOS, and Debian. ##
 
