@@ -1,25 +1,45 @@
 #50 facts about Linux:
 
 1. Linux was created by Linus Torvalds in 1991.
+
 2. It is an open-source operating system.
+
 3. The Linux kernel is written in C.
+
 4. The mascot of Linux is a penguin named Tux.
+
 5. Linux is used in a variety of devices, from servers to smartphones.
+
 6. The first version of Linux was 0.01.
+
 7. Linux is known for its stability and security.
+
 8. Many of the world's fastest supercomputers run on Linux.
+
 9. The Android operating system is based on the Linux kernel.
+
 10. Linux can be customized to a great extent.
+
 11. Popular Linux distributions include Ubuntu, Fedora, and Debian.
+
 12. Linux can be run on almost any hardware.
+
 13. Linux uses a variety of file systems, including ext3 and ext4.
+
 14. The command line interface (CLI) is a powerful tool in Linux.
+
 15. Linux has a large and active community of developers and users.
+
 16. It follows the POSIX standards.
+
 17. Linux distributions often come with package managers like apt or yum.
+
 18. The GNU Project played a significant role in the development of Linux.
+
 19. Linux is used on most web servers.
+
 20. It is a preferred OS for developers and programmers.
+
 21. Linux supports a wide range of programming languages.
 22. Linux has different desktop environments like GNOME, KDE, and XFCE.
 23. It supports multi-user and multitasking operations.
