@@ -1,4 +1,4 @@
-#Installing Linux# on any system involves several steps:
+# Installing Linux # on any system involves several steps:
 
 ### Step 1: Choose a Linux Distribution
 First, you'll need to choose a Linux distribution (distro) that suits your needs. Popular choices include Ubuntu, Fedora, and Linux Mint. You can download the ISO file for your chosen distro from its official website.
