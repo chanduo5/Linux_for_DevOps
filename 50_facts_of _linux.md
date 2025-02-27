@@ -1,4 +1,4 @@
-#50 facts about Linux:
+# 50 facts about Linux:
 
 1. Linux was created by Linus Torvalds in 1991.
 
